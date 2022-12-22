@@ -19,12 +19,10 @@ Social Media Marketing
 - Jmeter
 - Postman
 - Adobe XD
-
 # Target Devices:
 - Web
 - Laptop
 - Desktop
-
 # What I Delivered:
 I developed complete marketing solutions for businesses in order to get a real organic audience for their businesses. Following are the functionalities that our system performs.
 - Log in through your Facebook account
